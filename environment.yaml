@@ -1,0 +1,9 @@
+channels:
+  - bioconda
+dependencies:
+  - bioconda::snakemake-minimal =5.4.5
+  - python =3.6
+  - bwa =0.7.17
+  - sambamba =0.7.0
+  - pysam =0.15.0
+  - samtools =1.9
